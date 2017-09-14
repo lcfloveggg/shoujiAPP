@@ -1,0 +1,137 @@
+/*
+* @Author: DELL
+* @Date:   2017-09-06 08:59:08
+* @Last Modified by:   DELL
+* @Last Modified time: 2017-09-14 11:30:07
+*/
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:0.4rem;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;/* 是图片以文字形式完美显示 */
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 410809 */
+  src: url('http://at.alicdn.com/t/font_410809_xdb0dagr33y58kt9.eot');
+  src: url('http://at.alicdn.com/t/font_410809_xdb0dagr33y58kt9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_410809_xdb0dagr33y58kt9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_410809_xdb0dagr33y58kt9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_410809_xdb0dagr33y58kt9.svg#iconfont') format('svg');
+}
+.z1{
+	display: block;
+}
+header{
+	width: 100%;
+	height: 10.4rem;
+	background-color: #fff;
+}
+.head-top{
+	width: 100%;
+	height: 3.86rem;
+	background-color: #3b9bff;
+	font-size: 1rem;
+	text-align: center;
+	color: #fff;
+	padding-top: 1rem;
+}
+.head-top h1{
+	font-size: 1rem;
+}
+.head-top h2{
+	font-size: 0.5rem;
+}
+.dlxx{
+	width: 100%;
+	height: 3.16rem;
+	margin-top: 0.38rem;
+	margin-bottom: 0.72rem;
+	/* background-color: indianred; */
+}
+li{
+	width: 100%;
+	height: 1.06rem;
+	padding: 0.14rem 0.28rem 0.14rem 0.36rem ;
+	/* background-color: skyblue; */
+	position: relative;
+}
+.icbox{
+	float: left;
+	width: 0.48rem;
+	height: 0.48rem;
+	margin-right: 0.36rem;
+	/* background-color: indianred; */
+	margin-top: 0.15rem;
+}
+.wenzibox{
+	width: 6rem;
+	height: 100%;
+	float: right;
+	/* background-color: yellow; */
+}
+.wenzibox input{
+	float: left;
+	width: 100%;
+	height: 100%;
+	padding: 0.2rem 0;
+	font-size: 0.3rem;
+}
+li:nth-child(3) input{
+	width: 4.8rem;
+}
+.imgbox{
+	width: 1.2rem;
+	height: 0.6rem;
+	/* background-color: green; */
+	margin-top: 0.09rem;
+	float: right;
+}
+.imgbox img{
+	display: block;
+}
+.denglu{
+	width: 6.74rem;
+	height: 1.06rem;
+	border-radius: 0.12rem;
+	padding: 0.32rem;
+	border: 1px solid #0487e3;
+	margin: 0 auto;
+	background-color: #44a0ff;
+	text-align: center;
+	font-size: 0.38rem;
+	line-height: 0.38rem;
+}
+a{
+	color: #fff;
+}
+.anquan{
+	width: 100%;
+	height: 1.12rem;
+	padding: 0.36rem;
+/* 	background-color: yellowgreen; */
+}
+.anquan h1{
+	font-size: 0.2rem;
+	color: #3b9bff;
+	float: left;
+}
+.anquan h2{
+	font-size: 0.2rem;
+	color: #3b9bff;
+	float: right;
+}
+.dbbox{
+	width: 100%;
+	height: 1.44rem;
+	margin-top: 1.5rem;
+	/* background-color: yellowgreen; */
+	font-size: 0.28rem;
+    text-align: center;
+    line-height: 0.7rem;
+    border-top: 1px solid #eaeaea;
+    padding: 0.36rem 0;
+   /*  position: fixed;
+    bottom: 0; */
+}

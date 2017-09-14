@@ -1,0 +1,252 @@
+/*
+* @Author: DELL
+* @Date:   2017-09-06 08:59:08
+* @Last Modified by:   DELL
+* @Last Modified time: 2017-09-13 15:14:49
+*/
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:0.32rem;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;/* 是图片以文字形式完美显示 */
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 410809 */
+  src: url('http://at.alicdn.com/t/font_410809_5k3zbqlqj5g66r.eot');
+  src: url('http://at.alicdn.com/t/font_410809_5k3zbqlqj5g66r.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_410809_5k3zbqlqj5g66r.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_410809_5k3zbqlqj5g66r.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_410809_5k3zbqlqj5g66r.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: 0.88rem;
+	background-color: #fff;
+}
+.h1{
+	color: #fff;
+}
+.head-top{
+	width: 100%;
+	height: 0.88rem;
+	/* background-color: yellow; */
+}
+.tupian-box{
+	background-image: url('../IMG/top_hd.png');
+	margin-top: 0;
+	width: 100%;
+	height: 1rem;
+	position: fixed;
+	top: 0;
+}
+.rwz-box{
+	position: absolute;
+    font-size: 0.32rem;
+    color: #fff;
+    top: 0;
+    right: 0;
+    height: 0.88rem;
+    padding: 0 0.2rem;
+    line-height: 0.88rem;
+    /* background-color: yellow; */
+}
+.rwz-box a{
+	float: left;
+}
+.rwz-box a{
+	color: #fff;
+}
+.rwz-box a:nth-child(2){
+	width: 0.44rem;
+    height: 0.32rem;
+	margin: 0 0.3rem;
+}
+.zhongbu{
+	background-color: #f5f7f6;
+	margin-bottom: 1rem;
+}
+.zbbox{
+	width: 100%;
+	background-image: url('../IMG/top_hd.png');
+}
+.denglu{
+/* 	height: 2.4rem; */
+	padding: 0.48rem 0.36rem 0.96rem;
+}
+.denglu a{
+	display: inline-block;
+}
+.denglu img{
+	width: 0.96rem;
+    margin-right: 0.24rem;
+    float: left;
+}
+.denglu i{
+	float: left;
+	line-height: 0.96rem;
+	margin-right: 0.1rem;
+}
+.denglu li{
+	color: #fff;
+	font-size: 0.28rem;
+	line-height: 0.96rem;
+	margin-right: 0.2rem;
+	float: left;
+}
+.zb2box{
+	background: rgba(255,255,255,.2);
+}
+.zb2box a:nth-child(3){
+	border-right: 0;
+}
+.zb2box a{
+	width: 30%;
+	display: inline-block;
+	margin: 0.096rem 0;
+	border-right: 0.02rem #fff solid;
+	color: #fff;
+	font-size: 0.24rem;
+	text-align: center;
+}
+.wz-box1{
+	font-size: 0.28rem;
+}
+.zbbox1{
+	margin-top: 0.36rem;
+	background-color: #fff;
+	font-size: 0.32rem;
+}
+.zbbox1 a{
+	width: 100%;
+	display: inline-block;
+	padding: 0 0.36rem;
+	height: 1.2rem;
+	line-height: 1.2rem;
+}
+.zwz{
+	float: left;
+	color: #191919;
+}
+.ywz{
+	float: right;
+	color: #929292;
+}
+.z1{
+	float: left;
+	margin-right: 0.24rem;
+}
+.z2{
+	margin-left: 0.24rem;
+	display: block;
+	float: right;
+}
+.zbbox2{
+	background-color: #fff;
+	font-size: 0.32rem;
+}
+.zbbox2 a{
+	width: 100%;
+	display: inline-block;
+	padding: 0 0.36rem;
+	height: 1.2rem;
+	line-height: 1.2rem;
+	border-bottom: 0.02rem #dfdfdf solid;
+}
+.zbbox2-1 a{
+	border-bottom: 0;
+}
+.z3{
+	float: left;
+	margin-right: 0.24rem;
+	color: #ff7295;
+}
+.z4{
+	float: left;
+	margin-right: 0.24rem;
+	color: #fe945a;
+}
+.z5{
+	float: left;
+	margin-right: 0.24rem;
+	color: #ffc13d;
+}
+.z6{
+	float: left;
+	margin-right: 0.24rem;
+	color: #ff7bab;
+}
+.z7{
+	float: left;
+	margin-right: 0.24rem;
+	color: #3b9bff;
+}
+.z8{
+	float: left;
+	margin-right: 0.24rem;
+	color: #9edb0c;
+}
+.z9{
+	float: left;
+	margin-right: 0.24rem;
+	color: #60d4e3;
+}
+.z10{
+	float: left;
+	margin-right: 0.24rem;
+	color: #56a9ff;
+}
+.zbbox1-1{
+	width: 24%;
+	height: 100%;
+	display: inline-block;
+	font-size: 0.28rem;
+	text-align: center;
+	line-height: 0.30rem;
+}
+.zbbox1-2{
+	width: 0.46rem;
+	height: 0.46rem;
+	margin: 0 auto;
+	margin-top: 0.1rem;
+	text-align: center;
+	line-height: 0.46rem;
+}
+.zbbox1-1 a{
+	height: 0;
+	line-height: 0;
+	color: #929292;
+}
+footer{
+	width: 100%;
+	height: 1rem;
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+	border-top: 0.02rem solid #d9d9d9;
+}
+.dbbox{
+	width: 1.5rem;
+	height: 100%;
+/* 	background-color: red; */
+	float: left;
+	font-size: 0.28rem;
+	text-align: center;
+	line-height: 0.30rem;
+}
+.dbbox:hover{
+	color: #3B9BFF;
+}
+.xxbox{
+	width: 0.46rem;
+	height: 0.46rem;
+	margin: 0 auto;
+/* 	background-color: skyblue; */
+	margin-top: 0.1rem;
+	text-align: center;
+	line-height: 0.46rem;
+}
+.dbbox a{
+	color: #666666;
+}

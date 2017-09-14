@@ -1,0 +1,229 @@
+/*
+* @Author: DELL
+* @Date:   2017-09-06 08:59:08
+* @Last Modified by:   DELL
+* @Last Modified time: 2017-09-14 11:04:11
+*/
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:0.32rem;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;/* 是图片以文字形式完美显示 */
+}
+.z1{
+	display: block;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 410809 */
+  src: url('http://at.alicdn.com/t/font_410809_w99x7v1cmgoav2t9.eot');
+  src: url('http://at.alicdn.com/t/font_410809_w99x7v1cmgoav2t9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_410809_w99x7v1cmgoav2t9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_410809_w99x7v1cmgoav2t9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_410809_w99x7v1cmgoav2t9.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: 0.88rem;
+	/* background-color: #fff; */
+}
+.head-top{
+	width: 100%;
+	height: 0.88rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+	background-color: #fff;
+	z-index: 999;
+}
+.zicbox{
+	left: 0.3rem;
+    top: 0.26rem;
+    position: absolute;
+    border-color: #a7afc2;
+    border-width: 0.02rem 0.02rem 0 0;
+}
+.wzbox{
+	font-size: 0.36rem;
+	margin: 0 1.04rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #394050;
+}
+#banner{
+	position: relative;
+}
+.bt-box img{
+	display: block;
+/*     height: auto;
+    max-width: 100%;
+    margin: 0 auto; */
+}
+.bwz-box{
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: url('../IMG/banner2.png');
+}
+.bwz-xbox{
+	position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    box-sizing: border-box;
+    padding: 0 0.24rem;
+    bottom: 0.48rem;
+    color: #fff;
+    font-size: 0.32rem;
+}
+.bwz-box1{
+	float: left;
+	overflow: hidden;
+   	white-space: nowrap;
+    line-height: 0.5rem;
+}
+.bwz-box1 img{
+	display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.tu{
+	width: 0.66rem;
+    height: 0.66rem;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+.wz1{
+	position: absolute;
+    bottom: -0.3rem;
+    left: 1.02rem;
+    box-sizing: border-box;
+    padding: 0 0.12rem;
+    font-size: 0.24rem;
+    line-height: 0.44rem;
+    text-align: center;
+    color: #FFF;
+    border-radius: 0.07rem;
+    background-color: #ed5f86;
+}
+.wz2{
+	display: inline-block;
+}
+.bwz-box2{
+	float: right;
+	width: 2.78rem;
+    font-size: 0.24rem;
+}
+.bx1{
+	display: inline-block;
+    border-left: 0.02rem solid rgba(255,255,255,.8);
+    vertical-align: middle; 
+    padding-left: 0.1rem;
+    margin-right: 0.1rem;
+}
+.bx1 p{
+	text-align: center;
+}
+.bx2{
+	display: inline-block;
+    width: 1.68rem;
+    height:0.6rem;
+    line-height: 0.6rem;
+    text-align: center;
+    background-color: #ffce35;
+    color: #fff;
+    border-radius: 0.04rem;
+    font-size: 0.28rem;
+}
+.bx2 i{
+	display: inline-block;
+	margin-right: 0.12rem;
+    width: 0.26rem;
+    height: 0.22rem;
+}
+#dianpu{
+	height: 0.76rem;
+	background-color: #fff;
+}
+.dianpu{
+	font-size: 0.26rem;
+	color: #666;
+}
+.dpwz-box{
+	width: 33.3%;
+    padding: 0.24rem 0;
+    height: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    border-bottom: 0.04rem solid #fff;
+}
+.dpwz-box:hover{
+	color: #46a0ff;
+    border-color: #46a0ff;
+}
+#neirong{
+	margin-top: 0.24rem;
+    margin-bottom: 1rem;
+}
+.neirong1{
+	display: block;
+    height: 4rem;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.lunbodian{
+	position: absolute;
+	bottom: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: #fff; */
+    text-align: center;
+}
+.lunbodian1{
+	width: 0.16rem;
+    height: 0.16rem;
+    display: inline-block;
+    border-radius: 100%;
+    background: #5e5e5e;
+}
+.lunbodian1:hover{
+	background-color: #fff;
+}
+.nrtu{
+	display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+footer{
+	width: 100%;
+	height: 1rem;
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+}
+.dbbox{
+	width: 33.3%;
+    font-size: 0.28rem;
+	float: left;
+    display: block;
+    text-align: center;
+    line-height: 1rem;
+    border-right: 0.02rem solid #e7e7e7;
+}
+.dbbox a{
+	color: #404040;
+}
+.dbbox1{
+	border-right: 0;
+}
+.dbbox:hover{
+	color: #3B9BFF;
+}
