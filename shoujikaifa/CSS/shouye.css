@@ -2,7 +2,7 @@
 * @Author: DELL
 * @Date:   2017-09-06 08:59:08
 * @Last Modified by:   DELL
-* @Last Modified time: 2017-09-15 11:56:29
+* @Last Modified time: 2017-09-15 16:20:22
 */
 .iconfont {
     font-family:"iconfont" !important;
@@ -51,14 +51,13 @@ header{
 	padding: 0 0.30rem;
 }
 .textbox{
-	width: 80%;
+	width: 85%;
 	height: 0.6rem;
 	float: left;
 	margin-top: 0.14rem;
 	background-color: rgba(57,64,80,.1);
 }
 .zicbox{
-	width: 10%;
 	height: 0.34rem;
 	margin-top: 0.14rem;
 	margin-left: 0.288rem;
@@ -71,13 +70,12 @@ header{
 }
 .textbox input{
 	display: block;
-	width: 80%;
+	width: 85%;
 	height: 100%;
 	float: right;
 	background-color: rgba(0,0,0,0);
 }
 .yicbox{
-	width: 10%;
 	height: 0.48rem;
 	/* background-color: orange; */
 	margin-left: 0.364rem;
@@ -92,14 +90,14 @@ header{
 	/* background-color: red; */
 }
 .dhl{
-	width: 6.54rem;
+	width: 85%;
 	height: 0.72rem;
 	/* background-color: yellow; */
 	padding-left: 0.36rem;
 	float: left;
 }
 .libox{
-	width: 1.22rem;
+	width: 20%;
     height: 0.72rem;
     padding-right: 0.48rem;
     float: left;
@@ -116,10 +114,10 @@ header{
 	text-align: center;	
 }
 .icbox{
-	width: 0.8rem;
 	height: 0.72rem;
 	/* background-color: orange; */
 	float: right;
+	padding-right: 0.48rem;
 	text-align: center;
 	line-height:0.72rem; 
 }
