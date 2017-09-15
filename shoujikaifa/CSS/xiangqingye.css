@@ -2,7 +2,7 @@
 * @Author: DELL
 * @Date:   2017-09-06 08:59:08
 * @Last Modified by:   DELL
-* @Last Modified time: 2017-09-14 16:41:06
+* @Last Modified time: 2017-09-15 12:00:16
 */
 .iconfont {
     font-family:"iconfont" !important;
@@ -49,7 +49,7 @@ header{
 }
 .zicbox{
 	float: left;
-	width: 0.48rem;
+	width: 10%;
 	height: 0.48rem;
 	text-align: center;
 	line-height: 0.48rem;
@@ -60,7 +60,7 @@ header{
 	text-align: center;
 }
 .yicbox{
-	width: 0.48rem;
+	width: 10%;
 	height: 0.48rem;
 	/* background-color: orange; */
 	float: right;
